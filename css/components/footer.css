@@ -1,0 +1,25 @@
+.footer {
+  background-color: #191c1a;
+  height: 200px;
+  padding: 50px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-links {
+  text-align: center;
+}
+
+.footer a {
+  font-size: 40px;
+  padding: 5px;
+  color: #1EDD88;
+}
+
+.footer p {
+  color: white;
+  font-size: 16px;
+}

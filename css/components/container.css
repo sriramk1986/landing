@@ -1,0 +1,11 @@
+.container-top {
+  width: 600px;
+  margin: auto;
+  padding-right: 250px;
+  margin-bottom: 150px;
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+}
